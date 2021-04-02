@@ -2,7 +2,7 @@
 """
 Created on Thu Apr  1 12:02:42 2021
 
-@author: Steve
+@author: Steve IVYYYY 
 """
 # testing for webdriver 
 from bs4 import BeautifulSoup
